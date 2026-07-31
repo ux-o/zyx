@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Live Blog in 10 Minutes
 description: Welcome to Hugo Theme Stack
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
