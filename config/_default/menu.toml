@@ -10,7 +10,7 @@
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "https://ux-o.github.io/zyx/"
 
     [social.params]
         icon = "brand-github"
@@ -22,3 +22,11 @@
 
     [social.params]
         icon = "brand-twitter"
+
+[[social]]
+    identifier = "about"
+    name       = "About"
+    url        = "https://ux-o.github.io/zyx/p/about/index.md"
+
+    [social.params]
+        icon = "brand-github"
