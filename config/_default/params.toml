@@ -18,7 +18,7 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🚀🍥"
+    emoji    = "🚀"
     subtitle = "一名热爱技术的全栈开发者 | 探索 DevOps 与云原生"
     avatar   = "img/avatar.png"
 
@@ -33,10 +33,9 @@ SortBy              = "default"
 
 [widgets]
     homepage = [
-        { type = "search" },
-        { type = "archives", params = { limit = 5 } },
+        { type = "archives", params = { limit = 10 } },
         { type = "categories", params = { limit = 10 } },
-        { type = "tag-cloud", params = { limit = 10 } },
+        { type = "search" },
     ]
     page = [{ type = "toc" }]
 
@@ -50,7 +49,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = false
+    enabled  = true
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
