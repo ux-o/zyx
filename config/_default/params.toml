@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "AI hype, Emperor's New Gown."
+    emoji    = "🚀🍥"
+    subtitle = "一名热爱技术的全栈开发者 | 探索 DevOps 与云原生"
     avatar   = "img/avatar.png"
 
 [article]
