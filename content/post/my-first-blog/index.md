@@ -4,9 +4,11 @@ description: "记录我用 Hugo + Stack 主题搭建个人博客的完整过程"
 date: 2026-08-02T09:56:27+09:00
 image: 
 math: 
-license: 
+license: no licence
 comments: true
 draft: false
+categories: ["Hugo", "教程"]
+tags: ["静态网站", "Markdown", "GitHub Pages"]
 build:
     list: always    # Change to "never" to hide the page from the list
 ---
