@@ -7,6 +7,10 @@ image: cover.jpg
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
+## YouTube video
+
+{{< youtube "dQw4w9WgXcQ" >}}
+
 ## Bilibili video
 
 {{< bilibili "BV1d4411N7zD" >}}
