@@ -26,7 +26,7 @@
 [[social]]
     identifier = "about"
     name       = "About"
-    url        = "https://ux-o.github.io/zyx/about/index.md"
+    url        = "https://ux-o.github.io/zyx/about/"
 
     [social.params]
         icon = "brand-github"
