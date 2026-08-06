@@ -30,3 +30,7 @@ Hugo 是目前**最快**的静态网站生成器。它的核心优势是：
 ```bash
 sudo pacman -S hugo
 ```
+
+## YouTube video as shortcode
+
+{{< youtube "dQw4w9WgXcQ" >}}
