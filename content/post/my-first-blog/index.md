@@ -7,7 +7,7 @@ math:
 license: no license
 comments: true
 draft: false
-categories: ["Hugo", "DevOps", "Archlinux"]
+categories: ["Hugo", "教程"]
 tags: ["静态网站", "Markdown", "GitHub Pages"]
 build:
     list: always    # Change to "never" to hide the page from the list
